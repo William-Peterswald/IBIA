@@ -1,0 +1,28 @@
+body{
+	background: rgb(121,9,70);
+	background: linear-gradient(0deg, rgba(121,9,70,1) 2%, rgba(0,212,255,1) 100%, rgba(2,0,36,1) 100%);
+	color: white;
+	font-family: Advent Pro;
+	text-align: center;
+
+	
+}
+h1 {
+	font-size: 52px;
+	text-align: center;
+	margin-top: 20%;
+}
+h2 {
+	padding: 4%;
+	margin: 3% 40%;
+	text-align: center;
+}
+h2:hover {
+	border: solid;
+	margin: 2% 41%;
+	border-radius: 50px;
+	background: white;
+	border-color: white;
+	color: black;
+	
+}
