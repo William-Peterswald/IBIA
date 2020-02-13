@@ -1,0 +1,17 @@
+table {
+	position: center;
+	border-collapse: collapse;
+    width: 100%;
+	height: 100%;
+	text-align: center;
+
+}
+tr, td {
+	border: 10px solid black;
+	border-collapse: collapse;
+	margin: 20%;
+}
+tr {
+	min-height: 100%;
+}
+

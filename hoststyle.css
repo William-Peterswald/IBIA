@@ -1,0 +1,16 @@
+* {
+	background: black;
+	color: white;
+	font-family: 'WorkSansThin', sans-serif;
+	text-align: center;
+
+	
+}
+@font-face {
+  font-family: 'Work Sans Thins', sans-serif;
+  
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700&display=swap');
+

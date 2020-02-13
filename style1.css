@@ -1,0 +1,63 @@
+* {
+	background: black;
+	color: white;
+	font-family: 'WorkSansThin', sans-serif;
+	text-align: center;
+
+	
+}
+@font-face {
+  font-family: 'Work Sans Thins', sans-serif;
+  
+}
+table{
+    position: relative;
+    left: 30%;
+    width: 40%;
+    margin-top: 20%;
+    margin-bottom: 20%;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 100%);
+    border-spacing: 5px; /* space between each cell */
+   
+}
+a {
+    padding: 10%;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+}
+table a
+{
+    display:block;
+    text-decoration:none;
+}
+a:hover{
+  background-color: white;
+    color: black;
+  font-style: normal;
+}
+td {
+    padding: 10%;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    background-color: black;
+}
+tr {
+    border: 5px  white solid;
+    
+    /*background-color: linear-gradient(0deg, rgba(121,9,70,1) 2%, rgba(0,212,255,1) 100%, rgba(2,0,36,1) 100%);
+    background-color:: linear-gradient(to right, red, purple);*/
+}
+.Title {
+    border-top-right-radius: 50%;
+}
+
+td:hover  {
+    background-color: white;
+    color: black;
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700&display=swap');
+
